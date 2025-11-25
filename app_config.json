@@ -1,34 +1,5 @@
 {
-  "status": {
-    "label": "ACTIVE",
-    "color": "#2ECC71"
-  },
-  "message": "All good to go \u2728",
-  "plans": {
-    "basic": {
-      "price": "$9.99/mo",
-      "features": [
-        "100+ channels",
-        "HD available"
-      ],
-      "buy_url": "https://your.site/basic"
-    },
-    "premium": {
-      "price": "$14.99/mo",
-      "features": [
-        "200+ channels",
-        "4K available"
-      ],
-      "buy_url": "https://your.site/premium"
-    },
-    "sports_addon": {
-      "price": "$7.99/mo",
-      "features": [
-        "ESPN, FS1, regional sports"
-      ],
-      "buy_url": "https://your.site/sports"
-    }
-  },
-  "updated_at": "2025-11-25T12:14:28Z",
-  "version": 1
+  "STATUS": { "LABEL": "ACTIVE", "COLOR": "#2ECC71" },
+  "EXPIRES": "2025-12-31",
+  "NOTES": "All good to go ✨"
 }
