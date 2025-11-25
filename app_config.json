@@ -1,5 +1,5 @@
 {
-  "status": { "label": "ACTIVE", "color": "#2ECC71" },
+  "status": "ACTIVE ✅",
   "expires": "2025-12-31",
   "notes": "All good to go ✨"
 }
